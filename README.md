@@ -68,4 +68,4 @@
 
 ## **Next Vision**
 Think about hoisting on Railway and vercel. 
-https://github.com/1109piyush/crud-todo-frontend/blob/main/ezgif-2-3123ba5f64.gif
+[ <img src= "[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit](https://github.com/1109piyush/crud-todo-frontend/blob/main/ezgif-2-3123ba5f64.gif)e" />]
